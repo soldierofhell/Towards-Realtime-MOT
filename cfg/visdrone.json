@@ -2,10 +2,10 @@
     "root":"/content",
     "train":
     {
-        "VisDrone":"./VisDrone2019-MOT-train/sequences"
+        "VisDrone":"./data/visdrone.train"
     },
     "test":
     {
-        "VisDrone":"./VisDrone2019-MOT-val/sequences"
+        "VisDrone":"./data/visdrone.val"
     }
 }
