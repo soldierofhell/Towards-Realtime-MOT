@@ -1,0 +1,14 @@
+{
+    "root":"/content",
+    "train":
+    {
+        "VisDrone":"./VisDrone2019-MOT-train/sequences",
+    },
+    "test_emb":
+    {
+    },
+    "test":
+    {
+        "VisDrone":"./VisDrone2019-MOT-val/sequences",
+    }
+}
