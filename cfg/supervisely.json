@@ -1,0 +1,15 @@
+{
+    "root":"/content",
+    "train":
+    {
+        "MOT_final":"./data/MOT_final.train",
+        "MOT_fJeJuc27ggE":"./data/MOT_fJeJuc27ggE.train",
+        "MOT_NXKHJgo0Tpw":"./data/MOT_NXKHJgo0Tpw.train",
+    },
+    "test":
+    {
+        "MOT_final":"./data/MOT_final.train",
+        "MOT_fJeJuc27ggE":"./data/MOT_fJeJuc27ggE.train",
+        "MOT_NXKHJgo0Tpw":"./data/MOT_NXKHJgo0Tpw.train",
+    }
+}
